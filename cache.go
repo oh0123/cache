@@ -54,7 +54,7 @@ import (
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/common/hlog"
 	"github.com/cloudwego/hertz/pkg/protocol"
-	"github.com/hertz-contrib/cache/persist"
+	"github.com/oh0123/cache/persist"
 	"golang.org/x/sync/singleflight"
 )
 

@@ -49,8 +49,8 @@ import (
 
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/app/server"
-	"github.com/hertz-contrib/cache"
-	"github.com/hertz-contrib/cache/persist"
+	"github.com/oh0123/cache"
+	"github.com/oh0123/cache/persist"
 )
 
 func main() {

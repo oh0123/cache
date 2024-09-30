@@ -57,7 +57,7 @@ import (
 	"github.com/cloudwego/hertz/pkg/common/test/assert"
 	"github.com/cloudwego/hertz/pkg/common/ut"
 	"github.com/cloudwego/hertz/pkg/route"
-	"github.com/hertz-contrib/cache/persist"
+	"github.com/oh0123/cache/persist"
 )
 
 func hertzHandler(middleware app.HandlerFunc, withRand bool) *route.Engine {

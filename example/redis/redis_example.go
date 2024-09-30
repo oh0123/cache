@@ -47,8 +47,8 @@ import (
 
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/app/server"
-	"github.com/hertz-contrib/cache"
-	"github.com/hertz-contrib/cache/persist"
+	"github.com/oh0123/cache"
+	"github.com/oh0123/cache/persist"
 	"github.com/redis/go-redis/v9"
 )
 
