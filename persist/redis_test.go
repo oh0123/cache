@@ -46,7 +46,7 @@ import (
 	"time"
 
 	"github.com/cloudwego/hertz/pkg/common/test/assert"
-	"github.com/go-redis/redis/v8"
+	"github.com/redis/go-redis/v9"
 )
 
 func TestRedisStore(t *testing.T) {
