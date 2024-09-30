@@ -1,4 +1,4 @@
-module github.com/hertz-contrib/cache
+module github.com/oh0123/cache
 
 go 1.18
 
